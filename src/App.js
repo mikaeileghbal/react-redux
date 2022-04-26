@@ -1,5 +1,5 @@
 import "./App.css";
-import color from "./store/ColorReducer";
+import colorsStore from "./store/ColorsStore";
 
 function App() {
   return (
