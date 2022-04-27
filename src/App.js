@@ -1,5 +1,6 @@
 import "./App.css";
-import colorsStore from "./store/ColorsStore";
+import store from "./store/index";
+import initialState from "./store/index";
 
 function App() {
   return (
